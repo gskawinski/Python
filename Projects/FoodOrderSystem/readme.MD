@@ -17,8 +17,8 @@ sudo systemctl status kafka
 """
 
 RUN in Order (in seperate terminal /process):
-EmailConfirmation_Processor.py
-DataAnalitics_Processor.py
-Transaction_Processor.py
-BackEnd_Processor.py
-FrontEnd_Processor.py
+- EmailConfirmation_Processor.py
+- DataAnalitics_Processor.py
+- Transaction_Processor.py
+- BackEnd_Processor.py
+- FrontEnd_Processor.py ( is called by BackEnd_Processor)
