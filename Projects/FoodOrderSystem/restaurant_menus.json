@@ -1,0 +1,392 @@
+[
+    {
+        "Category": "Pizza",
+        "Name": "Pizza Palace",
+        "Address": "7 Main St",
+        "Telephone": "555-1975",
+        "Opening Hours": "11:00 AM - 9:00 PM",
+        "Menu": [
+            {
+                "dish": "Capricciosa",
+                "price": 15.05
+            },
+            {
+                "dish": "Pepperoni",
+                "price": 25.54
+            },
+            {
+                "dish": "Mushroom",
+                "price": 25.33
+            },
+            {
+                "dish": "Hawaiian",
+                "price": 23.2
+            },
+            {
+                "dish": "Neapolitan",
+                "price": 15.5
+            },
+            {
+                "dish": "Vegetarian",
+                "price": 23.48
+            },
+            {
+                "dish": "Sicilian",
+                "price": 24.9
+            },
+            {
+                "dish": "Diavola",
+                "price": 10.03
+            }
+        ]
+    },
+    {
+        "Category": "Sushi",
+        "Name": "Zen Sushi",
+        "Address": "77 Elm St",
+        "Telephone": "555-3984",
+        "Opening Hours": "8:00 AM - 4:00 PM",
+        "Menu": [
+            {
+                "dish": "Toro Sushi",
+                "price": 24.38
+            },
+            {
+                "dish": "Sashimi Platter",
+                "price": 21.31
+            },
+            {
+                "dish": "Nigiri Sushi",
+                "price": 29.64
+            },
+            {
+                "dish": "Unagi",
+                "price": 26.51
+            },
+            {
+                "dish": "California Roll",
+                "price": 13.81
+            },
+            {
+                "dish": "Spicy Tuna Roll",
+                "price": 26.84
+            },
+            {
+                "dish": "Tempura Roll",
+                "price": 14.94
+            },
+            {
+                "dish": "Dragon Roll",
+                "price": 27.39
+            },
+            {
+                "dish": "Salmon Roe",
+                "price": 21.49
+            }
+        ]
+    },
+    {
+        "Category": "Burgers",
+        "Name": "The Burger Joint",
+        "Address": "78 Elm St",
+        "Telephone": "555-2040",
+        "Opening Hours": "9:00 AM - 9:00 PM",
+        "Menu": [
+            {
+                "dish": "Cheeseburger",
+                "price": 19.54
+            },
+            {
+                "dish": "Mushroom Swiss Burger",
+                "price": 15.87
+            },
+            {
+                "dish": "BBQ Burger",
+                "price": 24.03
+            },
+            {
+                "dish": "Classic Burger",
+                "price": 21.92
+            },
+            {
+                "dish": "Turkey Burger",
+                "price": 23.5
+            },
+            {
+                "dish": "Patty Melt",
+                "price": 24.87
+            },
+            {
+                "dish": "Slider",
+                "price": 11.95
+            },
+            {
+                "dish": "Veggie Burger",
+                "price": 26.81
+            },
+            {
+                "dish": "Bacon Burger",
+                "price": 25.15
+            }
+        ]
+    },
+    {
+        "Category": "Mexican",
+        "Name": "El Burrito Loco",
+        "Address": "91 Elm St",
+        "Telephone": "555-4615",
+        "Opening Hours": "9:00 AM - 4:00 PM",
+        "Menu": [
+            {
+                "dish": "Taco",
+                "price": 19.76
+            },
+            {
+                "dish": "Tamales",
+                "price": 13.79
+            },
+            {
+                "dish": "Enchiladas",
+                "price": 20.75
+            },
+            {
+                "dish": "Burrito",
+                "price": 23.42
+            },
+            {
+                "dish": "Ceviche",
+                "price": 17.65
+            },
+            {
+                "dish": "Chimichanga",
+                "price": 21.94
+            }
+        ]
+    },
+    {
+        "Category": "Italian",
+        "Name": "Pasta Paradise",
+        "Address": "43 Main St",
+        "Telephone": "555-4407",
+        "Opening Hours": "7:00 AM - 7:00 PM",
+        "Menu": [
+            {
+                "dish": "Minestrone Soup",
+                "price": 27.82
+            },
+            {
+                "dish": "Fettuccine Alfredo",
+                "price": 15.93
+            },
+            {
+                "dish": "Ravioli",
+                "price": 16.96
+            },
+            {
+                "dish": "Gnocchi",
+                "price": 14.33
+            },
+            {
+                "dish": "Spaghetti Carbonara",
+                "price": 15.12
+            },
+            {
+                "dish": "Tiramisu",
+                "price": 10.89
+            },
+            {
+                "dish": "Panna Cotta",
+                "price": 26.2
+            },
+            {
+                "dish": "Lasagna",
+                "price": 22.4
+            }
+        ]
+    },
+    {
+        "Category": "Chinese",
+        "Name": "Wok & Roll",
+        "Address": "50 Main St",
+        "Telephone": "555-4969",
+        "Opening Hours": "8:00 AM - 7:00 PM",
+        "Menu": [
+            {
+                "dish": "Sweet and Sour Pork",
+                "price": 23.45
+            },
+            {
+                "dish": "Dim Sum",
+                "price": 21.03
+            },
+            {
+                "dish": "Spring Rolls",
+                "price": 13.76
+            },
+            {
+                "dish": "General Tso's Chicken",
+                "price": 29.84
+            },
+            {
+                "dish": "Peking Duck",
+                "price": 19.87
+            },
+            {
+                "dish": "Kung Pao Chicken",
+                "price": 16.89
+            },
+            {
+                "dish": "Mongolian Beef",
+                "price": 14.57
+            },
+            {
+                "dish": "Hot and Sour Soup",
+                "price": 10.8
+            },
+            {
+                "dish": "Chow Mein",
+                "price": 26.54
+            },
+            {
+                "dish": "Egg Fried Rice",
+                "price": 14.91
+            }
+        ]
+    },
+    {
+        "Category": "Indian",
+        "Name": "Spice of India",
+        "Address": "42 Elm St",
+        "Telephone": "555-5946",
+        "Opening Hours": "9:00 AM - 10:00 PM",
+        "Menu": [
+            {
+                "dish": "Biryani",
+                "price": 25.96
+            },
+            {
+                "dish": "Naan Bread",
+                "price": 13.22
+            },
+            {
+                "dish": "Chana Masala",
+                "price": 28.11
+            },
+            {
+                "dish": "Tandoori Chicken",
+                "price": 14.62
+            },
+            {
+                "dish": "Rogan Josh",
+                "price": 23.49
+            },
+            {
+                "dish": "Chicken Tikka Masala",
+                "price": 13.77
+            },
+            {
+                "dish": "Samosa",
+                "price": 14.51
+            },
+            {
+                "dish": "Paneer Tikka",
+                "price": 20.02
+            }
+        ]
+    },
+    {
+        "Category": "Thai",
+        "Name": "Siam Eats",
+        "Address": "19 Elm St",
+        "Telephone": "555-3132",
+        "Opening Hours": "10:00 AM - 10:00 PM",
+        "Menu": [
+            {
+                "dish": "Pad Thai",
+                "price": 25.22
+            },
+            {
+                "dish": "Pineapple Fried Rice",
+                "price": 22.66
+            },
+            {
+                "dish": "Tom Yum Soup",
+                "price": 11.35
+            },
+            {
+                "dish": "Som Tum",
+                "price": 22.76
+            },
+            {
+                "dish": "Yellow Curry",
+                "price": 26.96
+            }
+        ]
+    },
+    {
+        "Category": "Steakhouse",
+        "Name": "Prime Cuts Grill",
+        "Address": "33 Main St",
+        "Telephone": "555-6458",
+        "Opening Hours": "9:00 AM - 6:00 PM",
+        "Menu": [
+            {
+                "dish": "Filet Mignon",
+                "price": 11.67
+            },
+            {
+                "dish": "Ribeye Tomahawk",
+                "price": 14.1
+            },
+            {
+                "dish": "Sirloin Steak",
+                "price": 27.83
+            },
+            {
+                "dish": "Prime Rib",
+                "price": 18.63
+            },
+            {
+                "dish": "T-Bone Steak",
+                "price": 12.5
+            },
+            {
+                "dish": "Chateaubriand",
+                "price": 29.68
+            }
+        ]
+    },
+    {
+        "Category": "Seafood",
+        "Name": "Captain's Catch",
+        "Address": "64 Main St",
+        "Telephone": "555-9718",
+        "Opening Hours": "6:00 AM - 9:00 PM",
+        "Menu": [
+            {
+                "dish": "Fish and Chips",
+                "price": 20.86
+            },
+            {
+                "dish": "Crab Cakes",
+                "price": 16.85
+            },
+            {
+                "dish": "Shrimp Scampi",
+                "price": 15.16
+            },
+            {
+                "dish": "Tuna Steak",
+                "price": 24.19
+            },
+            {
+                "dish": "Seafood Paella",
+                "price": 16.14
+            },
+            {
+                "dish": "Lobster Bisque",
+                "price": 23.82
+            }
+        ]
+    }
+]
